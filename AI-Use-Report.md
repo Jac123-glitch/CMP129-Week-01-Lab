@@ -2,37 +2,37 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Jacqueline
+- Week:1
+- Lab:1
+- Date:9/4/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [x ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
-
+No AI tool was used
 ## Tool Used
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool:no AI tool was used
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response:No ai used
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:
+Response:no ai used
 
 ## Testing and Verification
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response:i finally understand how to use printf statements.
 
 ## Summary
 
