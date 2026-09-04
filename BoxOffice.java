@@ -18,7 +18,7 @@ public static void main(String [] args){
     gross = (adultTickets * 10.00) + (childTickets * 6.00);
     net = gross * 0.20;
     distributor = gross - net;
-    System.out.println("Movie Name:/t/t/t"+movie);
+    System.out.println("Movie Name:\t"+movie);
     System.out.println("Adult Tickets Sold:\t"+adultTickets);
     System.out.println("Child Tickets Sold:\t"+childTickets);
     System.out.printf("Gross box Office Profit:\t$%.2f\n", gross);
