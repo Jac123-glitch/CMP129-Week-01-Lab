@@ -21,9 +21,9 @@ public static void main(String [] args){
     System.out.println("Movie Name:/t/t/t"+movie);
     System.out.println("Adult Tickets Sold:\t"+adultTickets);
     System.out.println("Child Tickets Sold:\t"+childTickets);
-    System.out.println("Gross box Office Profit:\t$"+gross);
-    System.out.println("Net Box Office Profit:\t$"+net);
-    System.out.println("Amount Paid to Distributor:\t$"+distributor);
+    System.out.printf("Gross box Office Profit:\t$%.2f\n", gross);
+    System.out.printf("Net Box Office Profit:\t$%.2f\n", net);
+    System.out.printf("Amount Paid to Distributor:\t$%.2f\n",distributor);
 
 
 
